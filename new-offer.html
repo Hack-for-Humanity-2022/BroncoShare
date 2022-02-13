@@ -112,8 +112,17 @@
                     <input type="email" class="form-control" id="email" name="email">
                   </div>
                   <div class="form-group">
-                    <input type="submit" class="btn btn-primary btn-lg" id="submit" name="submit" value="Post">
+                    <input onclick="dataSubmit()" type="submit" class="btn btn-primary btn-lg" id="submit" name="submit" value="Post">
                   </div>
+                  <script>
+                    function dataSubmit() {
+                      let nombre = document.getElementById('name');
+                      let points = document.getElementById('subject');
+                      let contact = document.getElementById('email');
+                      console.log('Sent request with name = %s, points = %s, and contact information = %s', nombre, points, contact);
+                      addoffer(nombre, points, contact);
+                    }
+                  </script>
                 </form>
               </div>
             </div>
@@ -179,13 +188,10 @@
 
 </div>
   <!-- END wrapper -->
-
-
+  <script src="submitoffer.js"></script>
   <script src="js/scripts.min.js"></script>
   <script src="js/main.min.js"></script>
   <script src="js/custom.js"></script>
-
-
 </body>
 
 </html>
