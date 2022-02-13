@@ -1325,7 +1325,12 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-teacher .text h3 {
-  font-size: 20px;
+  font-style: oblique;
+  font-size: 18px;
+  margin: 0 0 0px 0;
+}
+.probootstrap-teacher .text h2 {
+  font-size: 24px;
   margin: 0 0 0px 0;
 }
 
