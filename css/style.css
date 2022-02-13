@@ -60,7 +60,7 @@ p, ul, ol {
 a {
   -webkit-transition: .3s all;
   transition: .3s all;
-  color: #9d2235;
+  color: #b30738;
 }
 
 a:hover, a:focus, a:active {
@@ -186,7 +186,7 @@ a:hover, a:focus, a:active {
 .probootstrap-top-quick-contact-info span i {
   display: inline-block;
   margin-right: 10px;
-  color: #9d2235;
+  color: #b30738;
 }
 
 .probootstrap-top-social {
@@ -214,7 +214,7 @@ a:hover, a:focus, a:active {
 .probootstrap-top-social ul li a {
   display: inline-block;
   padding: 4px;
-  color: #9d2235;
+  color: #b30738;
 }
 
 .probootstrap-top-social ul li:last-child a {
@@ -394,12 +394,12 @@ a:hover, a:focus, a:active {
 .probootstrap-navbar .dropdown > .dropdown-menu > li a:hover {
   border-top: none;
   background: #ffffff;
-  color: #9d2235;
+  color: #b30738;
 }
 
 .probootstrap-navbar .dropdown > .dropdown-menu > li.open > a, .probootstrap-navbar .dropdown > .dropdown-menu > li:hover > a, .probootstrap-navbar .dropdown > .dropdown-menu > li:focus > a, .probootstrap-navbar .dropdown > .dropdown-menu > li:active > a {
   border-top: none;
-  color: #9d2235;
+  color: #b30738;
   background: #ffffff;
 }
 
@@ -423,7 +423,7 @@ a:hover, a:focus, a:active {
   border: none;
   -webkit-box-shadow: none;
   box-shadow: none;
-  background: #9d2235;
+  background: #b30738;
   border-radius: 0;
   -webkit-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.15);
   box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.15);
@@ -512,7 +512,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-navbar .navbar-nav > li.active > a {
   background: none !important;
-  color: #9d2235 !important;
+  color: #b30738 !important;
 }
 
 @media screen and (max-width: 768px) {
@@ -526,13 +526,13 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .navbar-nav > li > .dropdown-menu:before {
-  border: 1px solid #9d2235;
+  border: 1px solid #b30738;
   content: "";
   position: absolute;
   top: -20px;
   left: 40px;
   border-color: rgba(73, 210, 146, 0);
-  border-bottom-color: #9d2235;
+  border-bottom-color: #b30738;
   border-width: 10px;
   margin-left: -10px;
 }
@@ -736,7 +736,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-hero.probootstrap-hero-colored {
-  background: #9d2235;
+  background: #b30738;
 }
 
 .probootstrap-hero.probootstrap-hero-colored h1 {
@@ -879,7 +879,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-showcase-nav ul li.active > a {
-  color: #9d2235;
+  color: #b30738;
   padding-left: 0px;
   display: block;
 }
@@ -912,36 +912,36 @@ a:hover, a:focus, a:active {
 }
 
 .btn.btn-primary {
-  border: 1px solid #9d2235;
-  background: #9d2235;
+  border: 1px solid #b30738;
+  background: #b30738;
   color: #ffffff;
 }
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
-  background: #9d2235;
+  background: #b30738;
 }
 
 .btn.btn-primary:focus, .btn.btn-primary:active {
   outline: none;
-  border: 1px solid #9d2235;
+  border: 1px solid #b30738;
 }
 
 .btn.btn-ghost {
   background: transparent;
-  border: 1px solid #9d2235;
-  color: #9d2235;
+  border: 1px solid #b30738;
+  color: #b30738;
 }
 
 .btn.btn-ghost:hover {
-  background: #9d2235;
+  background: #b30738;
   color: #ffffff;
 }
 
 .btn.btn-ghost:focus, .btn.btn-ghost:active {
   outline: none;
   background: transparent;
-  color: #9d2235;
-  border: 1px solid #9d2235;
+  color: #b30738;
+  border: 1px solid #b30738;
 }
 
 .probootstrap-section {
@@ -967,7 +967,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-section.probootstrap-section-colored {
-  background: #9d2235;
+  background: #b30738;
 }
 
 .probootstrap-section.probootstrap-section-colored .section-heading h2 {
@@ -1045,7 +1045,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-cta {
   padding: 3em 0;
-  background: #9d2235;
+  background: #b30738;
   color: #ffffff;
 }
 
@@ -1100,7 +1100,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-cta .btn.btn-ghost:hover {
   background: #ffffff;
-  color: #9d2235;
+  color: #b30738;
 }
 
 .probootstrap-footer {
@@ -1378,7 +1378,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-counter-wrap .probootstrap-icon i {
   font-size: 40px;
-  color: #9d2235;
+  color: #b30738;
 }
 
 .probootstrap-counter-wrap .probootstrap-text .probootstrap-counter {
@@ -1529,7 +1529,7 @@ a:hover, a:focus, a:active {
 .nav-tabs.probootstrap-tabs > li > a, .nav-pills.probootstrap-tabs > li > a {
   border-radius: 0px;
   padding: 20px 30px;
-  background: #9d2235;
+  background: #b30738;
   color: #ffffff;
   font-size: 16px;
   border: none !important;
@@ -1543,7 +1543,7 @@ a:hover, a:focus, a:active {
 }
 
 .nav-tabs.probootstrap-tabs > li > a:hover, .nav-pills.probootstrap-tabs > li > a:hover {
-  background: #9d2235;
+  background: #b30738;
 }
 
 .nav-tabs.probootstrap-tabs > li > a:active, .nav-tabs.probootstrap-tabs > li > a:focus, .nav-pills.probootstrap-tabs > li > a:active, .nav-pills.probootstrap-tabs > li > a:focus {
@@ -1609,7 +1609,7 @@ a:hover, a:focus, a:active {
   top: -30px;
   -webkit-transition: .3s all;
   transition: .3s all;
-  border-bottom: 3px solid #9d2235;
+  border-bottom: 3px solid #b30738;
 }
 
 .probootstrap-featured-news-box .probootstrap-text h3 {
@@ -1627,7 +1627,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-featured-news-box:hover .probootstrap-text, .probootstrap-featured-news-box:focus .probootstrap-text {
-  background: #9d2235;
+  background: #b30738;
   top: -40px;
   -webkit-box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.1);
@@ -1667,7 +1667,7 @@ a:hover, a:focus, a:active {
 .service .icon i {
   font-size: 40px;
   color: rgba(0, 0, 0, 0.2);
-  color: #9d2235;
+  color: #b30738;
 }
 
 .service h3 {
@@ -2027,7 +2027,7 @@ a:hover, a:focus, a:active {
 .probootstrap-form .form-control:active, .probootstrap-form .form-control:focus {
   -webkit-box-shadow: none;
   box-shadow: none;
-  border-color: #9d2235;
+  border-color: #b30738;
 }
 
 .probootstrap-form textarea.form-control {
@@ -2474,7 +2474,7 @@ a:hover, a:focus, a:active {
   display: block;
   text-transform: none;
   letter-spacing: normal;
-  color: #9d2235;
+  color: #b30738;
   font-size: 14px;
 }
 
@@ -2484,7 +2484,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-pricing .probootstrap-price-wrap .probootstrap-price {
   font-size: 50px;
-  color: #9d2235;
+  color: #b30738;
   font-weight: 100;
   display: block;
   margin-bottom: 10px;
